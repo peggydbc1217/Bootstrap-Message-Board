@@ -1,0 +1,25 @@
+側欄
+dashboard: insert_chart
+question: forum
+assignment: assignment
+course:  video_library
+admin: group
+settings: settings
+
+navbar
+搜尋: search
+小鈴鐺: notifications_active
+
+assignment
+ID 向下箭頭: arrow_downward 或 arrow_downward_alt
+眼睛: visibility
+編輯: edit
+
+迴紋針: attach_file
+星星: star
+箭頭下一個: navigate_next
+箭頭上一個: navigate_before
+
+modal
+圓形打勾: check_circle
+三角形警告: warning
